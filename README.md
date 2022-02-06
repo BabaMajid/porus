@@ -1,4 +1,7 @@
 # porus
+
+**Online IP Checking in Bulk from Virus Total and OTX.**
+
 Name porus came from famous Indian king from Punjab who had the courage to fight Alexander near river Jehlum.
 
 Porus is IPs reputation checking script from TI platforms like VT and OTX in bulk.
