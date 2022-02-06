@@ -1,0 +1,5 @@
+openpyxl==3.0.9
+OTXv2==1.5.12
+requests==2.27.1
+scapy==2.4.5
+XlsxWriter==3.0.2
